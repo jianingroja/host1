@@ -18,7 +18,7 @@ const Index = () => (
 					<Link to='/simple-page'>Go to Simple Page</Link>
 				</div>
 				<div>
-					<Link to='/simple-page'>Go to useRouter Page</Link>
+					<Link to='/complex-page'>Go to useRouter Page</Link>
 				</div>
 			</div>
 		</main>
